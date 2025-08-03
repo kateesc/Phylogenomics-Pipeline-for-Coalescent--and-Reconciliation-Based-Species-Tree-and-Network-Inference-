@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # -----------------------------------------------------------------------------
-# Script: run_disco.sh
+# Script: disco.sh
 # Description: Decompose multicopy gene trees using DISCO into single-copy orthologs
 # Requirements: DISCO (v1.4.1), TreeSwift, Python 3
 # -----------------------------------------------------------------------------
