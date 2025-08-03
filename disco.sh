@@ -31,7 +31,9 @@ for treefile in "$INPUT_DIR"/*.treefile; do
         -o "$outfile" \
         -d "$DELIMITER" \
         --single_tree \
-        --keep-labels
+        --keep-labels \
+        --remove_in_paralogs \
+        --verbose
 
     echo "Processed: $treefile → $outfile"
 done
