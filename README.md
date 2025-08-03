@@ -41,22 +41,21 @@ The full workflow consists of three main components:
 3. **Alignments**: Align amino acid sequences with MAFFT.
 4. **Codon-Aware Alignments**: Generate codon alignments guided by amino acid alignments.
 5. **Gene Tree Inference**: Use IQ-TREE2 to infer ML gene trees.
-6. **Species Tree Inference**: Run ASTRAL-Pro3 and SpeciesRax to infer species trees.
+6. **Species Tree Inference**: Run ASTRAL-Pro3 and [SpeciesRax](speciesrax.sh) to infer species trees.
 
 This pipeline was a part of a previous project --> https://github.com/kateesc/species_tree_inference_astralpro3.   
 
 ### Ortholog Decomposition:
 
-1. **DISCO**: Decompose gene trees using duplication tags from ASTRAL-Pro.
-2. **OrthoSNAP**: Identify SNAP orthologous groups from topology and taxon occupancy.
+1. [**DISCO**](disco.sh): Decompose gene trees using duplication tags from ASTRAL-Pro.
+2. [**OrthoSNAP**](orthosnap.sh): Identify SNAP orthologous groups from topology and taxon occupancy.
 3. **ASTRAL-IV**: Infer species trees from single-copy gene sets.
 
 ### Hybridization Analysis:
 
-1. **HyDe**: Detect gene flow between taxa using site patterns.
-2. **SNaQ**: Infer networks from concordance factors with coalescent model.
-3. **PhyloNet**: Reconstruct reticulate evolution from rooted gene trees.
-
+1. [**HyDe**](hyde.sh): Detect gene flow between taxa using site patterns.
+2. [**SNaQ**](snaq.sh): Infer networks from concordance factors with coalescent model.
+3. [**PhyloNet**](phylonet.sh)(make_mpl_script.sh): Reconstruct reticulate evolution from rooted gene trees.
 ---
 
 ## Author
@@ -81,7 +80,7 @@ Special thanks to my supervisors:
   Zhang et al. (2020). ASTRAL-Pro: quartet-based species tree inference despite paralogy. *Mol Biol Evol*. [https://doi.org/10.1093/molbev/msaa139](https://doi.org/10.1093/molbev/msaa139)
 
 * **SpeciesRax**
-  Morel et al. (2022). SpeciesRax: A tool for species tree inference from gene family trees under duplication, transfer, and loss. *Mol Biol Evol*.
+  Morel et al. (2022). SpeciesRax: A tool for species tree inference from gene family trees under duplication, transfer, and loss. *Mol Biol Evol*.[https://doi.org/10.1093/molbev/msab365](https://doi.org/10.1093/molbev/msab365)
 
 * **BUSCO**
   Simão et al. (2015). BUSCO: assessing genome assembly and annotation completeness. *Bioinformatics*. [https://doi.org/10.1093/bioinformatics/btv351](https://doi.org/10.1093/bioinformatics/btv351)
@@ -93,10 +92,10 @@ Special thanks to my supervisors:
   Katoh & Standley (2013). MAFFT Multiple Sequence Alignment Software Version 7. *Mol Biol Evol*. [https://doi.org/10.1093/molbev/mst010](https://doi.org/10.1093/molbev/mst010)
 
 * **HyDe**
-  Blischak et al. (2018). HyDe: A Python package for genome-scale hybridization detection. *Bioinformatics*. [https://doi.org/10.1093/bioinformatics/bty651](https://doi.org/10.1093/bioinformatics/bty651)
+  Blischak et al. (2018). HyDe: A Python package for genome-scale hybridization detection. *Bioinformatics*. [https://doi.org/10.1093/sysbio/syy023](https://doi.org/10.1093/sysbio/syy023)
 
 * **SNaQ** / **PhyloNetworks**
-  Solís-Lemus & Ané (2016). Inferring phylogenetic networks with maximum pseudolikelihood. *PLoS Genet*. [https://doi.org/10.1371/journal.pgen.1005896](https://doi.org/10.1371/journal.pgen.1005896)
+  Solís-Lemus & Ané (2016). Inferring phylogenetic networks with maximum pseudolikelihood under Incomplete Lineage Sorting. *PLoS Genet*. [https://doi.org/10.1371/journal.pgen.1005896](https://doi.org/10.1371/journal.pgen.1005896)
 
 * **PhyloNet**
-  Wen et al. (2018). Inferring phylogenetic networks using PhyloNet. *Systematic Biology*. [https://doi.org/10.1093/sysbio/syx079](https://doi.org/10.1093/sysbio/syx079)
+  Wen et al. (2018). Inferring phylogenetic networks using PhyloNet. *Systematic Biology*. [https://doi.org/10.1093/sysbio/syy015](https://doi.org/10.1093/sysbio/syy015)
