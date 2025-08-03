@@ -49,7 +49,7 @@ This pipeline was a part of a previous project --> https://github.com/kateesc/sp
 
 1. [**DISCO**](disco.sh): Decompose gene trees using duplication tags from ASTRAL-Pro.
 2. [**OrthoSNAP**](orthosnap.sh): Identify SNAP orthologous groups from topology and taxon occupancy.
-3. **ASTRAL-IV**: Infer species trees from single-copy gene sets.
+3. [**ASTRAL-IV**](astral_iv.sh): Infer species trees from single-copy gene sets.
 
 ### Hybridization Analysis:
 
@@ -92,7 +92,7 @@ Special thanks to my supervisors:
   Katoh & Standley (2013). MAFFT Multiple Sequence Alignment Software Version 7. *Mol Biol Evol*. [https://doi.org/10.1093/molbev/mst010](https://doi.org/10.1093/molbev/mst010)
 
 * **HyDe**
-  Blischak et al. (2018). HyDe: A Python package for genome-scale hybridization detection. *Bioinformatics*. [https://doi.org/10.1093/sysbio/syy023](https://doi.org/10.1093/sysbio/syy023)
+  Blischak et al. (2018). HyDe: A Python package for genome-scale hybridization detection. *Systematic Biology*. [https://doi.org/10.1093/sysbio/syy023](https://doi.org/10.1093/sysbio/syy023)
 
 * **SNaQ** / **PhyloNetworks**
   Solís-Lemus & Ané (2016). Inferring phylogenetic networks with maximum pseudolikelihood under Incomplete Lineage Sorting. *PLoS Genet*. [https://doi.org/10.1371/journal.pgen.1005896](https://doi.org/10.1371/journal.pgen.1005896)
