@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # -----------------------------------------------------------------------------
-# Script: run_speciesrax.sh
+# Script: speciesrax.sh
 # Description: Run SpeciesRax on a set of BUSCO gene trees and mapping files
 # Requirements: GeneRax v2.1.3, MPI (e.g., OpenMPI), valid species tree and mappings
 # -----------------------------------------------------------------------------
