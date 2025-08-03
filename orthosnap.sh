@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # -----------------------------------------------------------------------------
-# Script: run_orthosnap.sh
+# Script: orthosnap.sh
 # Description: Extract single-copy orthologous groups using OrthoSNAP
 # Requirements: OrthoSNAP v1.3.2 or later
 # -----------------------------------------------------------------------------
