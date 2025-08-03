@@ -43,6 +43,8 @@ The full workflow consists of three main components:
 5. **Gene Tree Inference**: Use IQ-TREE2 to infer ML gene trees.
 6. **Species Tree Inference**: Run ASTRAL-Pro3 and SpeciesRax to infer species trees.
 
+This pipeline was a part of a previous project --> https://github.com/kateesc/species_tree_inference_astralpro3.   
+
 ### Ortholog Decomposition:
 
 1. **DISCO**: Decompose gene trees using duplication tags from ASTRAL-Pro.
