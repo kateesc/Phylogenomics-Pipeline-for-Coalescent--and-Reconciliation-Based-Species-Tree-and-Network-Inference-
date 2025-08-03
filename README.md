@@ -55,7 +55,7 @@ This pipeline was a part of a previous project --> https://github.com/kateesc/sp
 
 1. [**HyDe**](hyde.sh): Detect gene flow between taxa using site patterns.
 2. [**SNaQ**](snaq.sh): Infer networks from concordance factors with coalescent model.
-3. [**PhyloNet**](phylonet.sh)(make_mpl_script.sh): Reconstruct reticulate evolution from rooted gene trees.
+3. [**PhyloNet**](phylonet.sh): Reconstruct reticulate evolution from rooted gene trees.
 ---
 
 ## Author
