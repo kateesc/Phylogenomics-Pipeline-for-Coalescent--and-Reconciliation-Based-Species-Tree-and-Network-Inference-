@@ -1,0 +1,101 @@
+#### Families file for SpeciesRax
+[FAMILIES]
+- 100069at71240
+starting_gene_tree = /path_to_tree_file/100069at71240.treefile
+mapping = /path_to_mapping_file/100069at71240.mapping
+
+- 100085at71240
+starting_gene_tree = /path_to_tree_file/100085at71240.treefile
+mapping = /path_to_mapping_file/100085at71240.mapping
+
+- 100163at71240
+starting_gene_tree = /path_to_tree_file/100163at71240.treefile
+mapping = /path_to_mapping_file/100163at71240.mapping
+
+- 100297at71240
+starting_gene_tree = /path_to_tree_file/100297at71240.treefile
+mapping = /path_to_mapping_file/100297at71240.mapping
+
+- 100319at71240
+starting_gene_tree = /path_to_tree_file/100319at71240.treefile
+mapping = /path_to_mapping_file/100319at71240.mapping
+
+- 100320at71240
+starting_gene_tree = /path_to_tree_file/100320at71240.treefile
+mapping = /path_to_mapping_file/100320at71240.mapping
+
+- 100362at71240
+starting_gene_tree = /path_to_tree_file/100362at71240.treefile
+mapping = /path_to_mapping_file/100362at71240.mapping
+
+- 100415at71240
+starting_gene_tree = /path_to_tree_file/100415at71240.treefile
+mapping = /path_to_mapping_file/100415at71240.mapping
+
+- 100421at71240
+starting_gene_tree = /path_to_tree_file/100421at71240.treefile
+mapping = /path_to_mapping_file/100421at71240.mapping
+
+- 100498at71240
+starting_gene_tree = /path_to_tree_file/100498at71240.treefile
+mapping = /path_to_mapping_file/100498at71240.mapping
+
+- 100703at71240
+starting_gene_tree = /path_to_tree_file/100703at71240.treefile
+mapping = /path_to_mapping_file/100703at71240.mapping
+
+- 100803at71240
+starting_gene_tree = /path_to_tree_file/100803at71240.treefile
+mapping = /path_to_mapping_file/100803at71240.mapping
+
+- 100869at71240
+starting_gene_tree = /path_to_tree_file/100869at71240.treefile
+mapping = /path_to_mapping_file/100869at71240.mapping
+
+- 100993at71240
+starting_gene_tree = /path_to_tree_file/100993at71240.treefile
+mapping = /path_to_mapping_file/100993at71240.mapping
+
+- 10104at71240
+starting_gene_tree = /path_to_tree_file/10104at71240.treefile
+mapping = /path_to_mapping_file/10104at71240.mapping
+
+- 101131at71240
+starting_gene_tree = /path_to_tree_file/101131at71240.treefile
+mapping = /path_to_mapping_file/101131at71240.mapping
+
+- 101189at71240
+starting_gene_tree = /path_to_tree_file/101189at71240.treefile
+mapping = /path_to_mapping_file/101189at71240.mapping
+
+- 101210at71240
+starting_gene_tree = /path_to_tree_file/101210at71240.treefile
+mapping = /path_to_mapping_file/101210at71240.mapping
+
+- 101246at71240
+starting_gene_tree = /path_to_tree_file/101246at71240.treefile
+mapping = /path_to_mapping_file/101246at71240.mapping
+
+- 101290at71240
+starting_gene_tree = /path_to_tree_file/101290at71240.treefile
+mapping = /path_to_mapping_file/101290at71240.mapping
+
+- 10132at71240
+starting_gene_tree = /path_to_tree_file/10132at71240.treefile
+mapping = /path_to_mapping_file/10132at71240.mapping
+
+- 101397at71240
+starting_gene_tree = /path_to_tree_file/101397at71240.treefile
+mapping = /path_to_mapping_file/101397at71240.mapping
+
+- 101409at71240
+starting_gene_tree = /path_to_tree_file/101409at71240.treefile
+mapping = /path_to_mapping_file/101409at71240.mapping
+
+- 101557at71240
+starting_gene_tree = /path_to_tree_file/101557at71240.treefile
+mapping = /path_to_mapping_file/101557at71240.mapping
+
+- 101717at71240
+starting_gene_tree = /path_to_tree_file/101717at71240.treefile
+mapping = /path_to_mapping_file/101717at71240.mapping
