@@ -1,4 +1,4 @@
-#### Example output for a decomposed BUSCO (100069at71240) with OrthoSnap
+#### Example output for a decomposed BUSCO (100069at71240) with OrthoSnap (SNAP-OG trees ".tre" files)
 
 100069at71240.fasta.orthosnap.0.fa   100069at71240.fasta.orthosnap.2.fa   100069at71240.fasta.orthosnap.4.fa   100069at71240.fasta.orthosnap.6.fa
 100069at71240.fasta.orthosnap.0.tre  100069at71240.fasta.orthosnap.2.tre  100069at71240.fasta.orthosnap.4.tre  100069at71240.fasta.orthosnap.6.tre
