@@ -1,0 +1,6 @@
+#### Example output for a decomposed BUSCO (100069at71240) with OrthoSnap
+
+100069at71240.fasta.orthosnap.0.fa   100069at71240.fasta.orthosnap.2.fa   100069at71240.fasta.orthosnap.4.fa   100069at71240.fasta.orthosnap.6.fa
+100069at71240.fasta.orthosnap.0.tre  100069at71240.fasta.orthosnap.2.tre  100069at71240.fasta.orthosnap.4.tre  100069at71240.fasta.orthosnap.6.tre
+100069at71240.fasta.orthosnap.1.fa   100069at71240.fasta.orthosnap.3.fa   100069at71240.fasta.orthosnap.5.fa   100069at71240.fasta.orthosnap.7.fa
+100069at71240.fasta.orthosnap.1.tre  100069at71240.fasta.orthosnap.3.tre  100069at71240.fasta.orthosnap.5.tre  100069at71240.fasta.orthosnap.7.tre
