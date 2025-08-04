@@ -39,7 +39,7 @@ The full workflow consists of three main components:
 1. **BUSCO Analysis**: Run BUSCO to identify orthologous markers.
 2. **Extract Sequences**: Filter high-quality BUSCO gene sequences.
 3. **Alignments**: Align amino acid sequences with MAFFT.
-4. **Codon-Aware Alignments**: Generate codon alignments guided by [amino acid alignments](codon_align.sh).
+4. [**Codon-Aware Alignments**](codon_align.sh): Generate codon alignments guided by amino acid alignments.
 5. **Gene Tree Inference**: Use IQ-TREE2 to infer ML gene trees.
 6. **Species Tree Inference**: Run ASTRAL-Pro3 and [SpeciesRax](speciesrax.sh) to infer species trees.
 
